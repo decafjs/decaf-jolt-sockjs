@@ -90,6 +90,8 @@ sock.onclose = function(e) {
 2. xhr streaming
 3. xhr polling
 
+These may be sufficient for complete functionality.  Other protocols may provide more optimal transport methods.
+
 ## Not implemented yet
 
 1. close() function on server side sockjs sockets
