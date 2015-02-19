@@ -14,7 +14,7 @@ SockJS implements an API that strongly resembles the WebSocket API, but under th
 
 You use the stock SockJS client library in your HTML/Web application.   This module implements a compatible server-side that speaks the various protocols.  On the server, the API resembles the decafjs style Socket API.  Note that you listen for connections on the server and you create connections on the client, so the API cannot be exactly the same.  But they are very close.
 
-There is a nice example working test program at https://github.com/decafjs/decafjs-examples/SockJS.
+There is a nice example working test program at https://github.com/decafjs/decaf-examples/SockJS.
 
 ## References
 
