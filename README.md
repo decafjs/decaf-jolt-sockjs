@@ -94,10 +94,9 @@ These may be sufficient for complete functionality.  Other protocols may provide
 
 ## Not implemented yet
 
-1. close() function on server side sockjs sockets
-2. EventSource incomplete
-3. xdr streaming
-4. iframe-htmlfile
-5. iframe-xhr-polling
-6. iframe-eventsource
-7. jsonp-polling
+1. EventSource incomplete
+2. xdr streaming
+3. iframe-htmlfile
+4. iframe-xhr-polling
+5. iframe-eventsource
+6. jsonp-polling
