@@ -12,6 +12,7 @@ var Session = require('lib/Session');
 //console.log('y');
 
 decaf.extend(exports, {
-    SockJS  : require('lib/jolt-sockjs').SockJS,
-    Session : require('lib/Session')
+    SockJS   : require('lib/jolt-sockjs').SockJS,
+    EventBus : require('lib/EventBus'),
+    Session  : require('lib/Session')
 });
